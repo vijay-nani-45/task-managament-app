@@ -23,7 +23,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/task-management.git
+git clone  https://github.com/vijay-nani-45/task-managament-app.git
 cd task-management
 Create and activate a virtual environment:
 
