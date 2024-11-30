@@ -1,0 +1,6 @@
+Django
+social-auth-app-django
+social-auth-core
+pillow
+gunicorn
+python-dotenv
